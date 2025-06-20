@@ -29,5 +29,5 @@ A Streamlit web application that predicts **health insurance premiums** based on
 
 1️⃣ **Clone the repository**
 ```bash
-git clone https://github.com/your-username/health-insurance-premium-prediction.git
-cd health-insurance-premium-prediction
+https://github.com/vamsipriyalakku6/ML_Project.git
+
